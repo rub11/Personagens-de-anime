@@ -1,0 +1,161 @@
+.img-Shui-Kong {
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: auto;
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+body {
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBfgpftsZbRwSER72Q0r7jNRkE9cknocdoA&s);
+}
+
+.header {
+    background-color: blue;
+    max-width: 80%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.h1-Shui-Kong {
+    background-color: white;
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+    max-width: 250px;
+    border-radius: 2vh;
+    box-shadow: 0.4px 0.5px 0.7px black;
+    padding: 10px;
+
+}
+
+.h2-Shui-Kong {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    background-color: black;
+    color: white;
+    text-align: center;
+    max-width: 60%;
+    margin: auto;
+    border-radius: 3vh;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+.paragrafo-Shui-Kong {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 2vh;
+    max-width: 85%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 1.3em;
+}
+
+.link-Shui-Kong {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    max-width: 200px;
+    margin: auto;
+    border-radius: 2vh;
+    margin-bottom: 30px;
+}
+
+.link-Shui-Kong:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px black;
+}
+
+
+.imagem-do-centro-do-texto-link{
+width: 300px;
+margin: auto;
+display: flex;
+border: 1px solid black;
+border-radius: 2vh;
+}
+.imagem-do-centro-do-texto-link-gif-01{
+border-radius: 2vh;
+margin: auto;
+display: flex;
+width: 70%;
+border: 1px solid black;
+box-shadow: 1px 1px 1px black;
+}
+
+.imagem-do-centro-do-texto-link-gif-02{
+    border-radius: 2vh;
+    margin: auto;
+    display: flex;
+    width: 70%;
+    border: 1px solid black;
+    box-shadow: 1px 1px 1px black;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:768px){
+    .header{
+        max-width: 90%;
+    }
+    .imagem-do-centro-do-texto-link-gif-01{
+        border-radius: 2vh;
+        margin: auto;
+        display: flex;
+        width: 95%;
+        border: 1px solid black;
+        box-shadow: 1px 1px 1px black;
+        }
+        
+        .imagem-do-centro-do-texto-link-gif-02{
+            border-radius: 2vh;
+            margin: auto;
+            display: flex;
+            width: 95%;
+            border: 1px solid black;
+            box-shadow: 1px 1px 1px black;
+            }
+}

@@ -1,0 +1,38 @@
+@media screen and (max-width:768px) {
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .titulo-ul {
+        margin: auto;
+        display: block;
+        display: inline-block;
+
+    }
+
+    .titulo-inicial {
+        margin: auto;
+      
+    }
+
+    .titulo-h2-3 {
+        display: none;
+    }
+
+    .titulo-h2-2 {
+        display: none;
+
+    }
+
+    .titulo-h2-1 {
+        margin: auto;
+        text-align: center;
+        width: 80vw;
+    }
+
+    .titulo-li {
+        margin: auto;
+        display: flex;
+    }
+}

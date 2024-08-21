@@ -1,0 +1,41 @@
+ul li {
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.titulo-inicial {
+  
+   background-image: url(https://tse3.mm.bing.net/th?id=OIP.ARJP1R8BNjps34sbTCeQdgHaEo&pid=Api&P=0&h=180);
+padding:20px;
+
+}
+
+.titulo-ul {
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+
+.titulo-li {
+    padding: 5px;
+   
+}
+
+.titulo-h2 {
+    padding: 10px;
+    border-radius: 2vh;
+  
+}
+.titulo-h2:hover{
+  background-color: rgb(153, 255, 0);
+    color: rgb(0, 0, 0);
+    transition: 0.7s;
+    box-shadow: 1px 1px 1px black;
+}
+
+.titulo-h2-1 {}
+
+.titulo-h2-2 {}
+
+.titulo-h2-3 {}
